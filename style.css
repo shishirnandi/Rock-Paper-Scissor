@@ -1,0 +1,39 @@
+ul {
+
+    list-style-type: none;
+}
+
+.score {
+
+    margin-top: 85px;
+}
+
+.pics {
+    margin-top: 50px;
+}
+
+.choice:hover {
+
+    background-color: black;
+    border-color: black;
+    border: 5px;
+    cursor: pointer;
+}
+
+.h1 {
+
+     background-color: mediumaquamarine;
+     border: .75rem black solid;
+     border-radius: 2rem;
+     color: bisque;
+}
+
+.div {
+    height:65px ;
+    width: 300px;
+    /* display: flex;
+    align-items: center;
+    justify-content: space-around; */
+    margin-top: 2rem;
+    margin-left: 18rem;
+}
